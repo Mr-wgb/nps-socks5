@@ -31,4 +31,4 @@ require (
 	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57 // indirect
 )
 
-replace github.com/astaxie/beego => github.com/exfly/beego v1.12.0-export-init
+replace github.com/exfly/beego github.com/Mr-wgb/nps-socks5 v2.0.1
