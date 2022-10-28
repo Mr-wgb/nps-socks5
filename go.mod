@@ -1,9 +1,9 @@
-module Mr-wgb/nps-socks5
+module github.com/Mr-wgb/nps-socks5
 
 go 1.15
 
 require (
-	ehang.io/nps-mux v0.0.0-20210407130203-4afa0c10c992
+	github.com/Mr-wgb/nps-socks5 v4.0.1
 	fyne.io/fyne/v2 v2.0.2
 	github.com/astaxie/beego v1.12.0
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8 // indirect
@@ -31,4 +31,4 @@ require (
 	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57 // indirect
 )
 
-replace github.com/exfly/beego github.com/Mr-wgb/nps-socks5 v2.0.1
+replace github.com/exfly/beego github.com/Mr-wgb/nps-socks5 v4.0.1
