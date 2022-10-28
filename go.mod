@@ -1,4 +1,4 @@
-module ehang.io/nps
+module Mr-wgb/nps-socks5
 
 go 1.15
 
